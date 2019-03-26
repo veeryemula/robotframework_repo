@@ -15,14 +15,20 @@ TC1
 
 
 TC2
-    Log            Test Case 1
+    Log            Test Case 2
     Set Tags       Regression
     
 TC3
     [Tags]         Sanity
-    Log            Test Case 1
+    Log            Test Case 3
     Remove Tags    Functional
 
+
+TC4
+    Log            Test Case 4
+    Remove Tags    Functional
+    
+    
 # Sc1_LogMessage
     # Log    Hello World!
     
